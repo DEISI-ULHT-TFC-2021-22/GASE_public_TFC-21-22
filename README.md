@@ -145,7 +145,7 @@ From there you can navigate and see all the information that is available at the
 ![pageExample-screenshot]
 At the very bottom of every page is the option to download the table files.
 
-![downloadFiles-screenshot]
+![downloadfiles-screenshot]
 
 We have several forms in development to add new data to the DB and tables aswell, to acess them look for the green buttons to add new and submit your new data.
 
