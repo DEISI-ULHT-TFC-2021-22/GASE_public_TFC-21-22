@@ -214,7 +214,7 @@ Project Link: [GASE App](https://github.com/TiagoDM-21905643/GASE)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [dahboard-screenshot]: images/dashboard.png
-[downloadfiles-screenshot]: images/downlaodfiles.png
+[downloadfiles-screenshot]: images/downloadfiles.png
 [formExample-screenshot]: images/formExample.png
 [importFiles-screenshot]: images/importFiles.png
 [pageExample-screenshot]: images/pageExample.png
