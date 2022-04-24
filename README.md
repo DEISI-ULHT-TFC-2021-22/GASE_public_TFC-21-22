@@ -193,8 +193,6 @@ João Ferreira - 2905985
 
 
 
-Project Link: [GASE App](https://github.com/TiagoDM-21905643/GASE)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
