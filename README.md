@@ -18,8 +18,8 @@
     <br />
     <br />
     <a href="https://youtu.be/M4RSTxaXyAo">View Demo</a> -/-
-    <a href="https://youtu.be/Xs4AIV6VuYs">View Presentation</a>
-    
+    <a href="https://youtu.be/Xs4AIV6VuYs">View Presentation</a> -/-
+    <a href="https://youtu.be/CCnqAmEdNHc">View Final Demo</a> -/-
   </p>
 </div>
 
