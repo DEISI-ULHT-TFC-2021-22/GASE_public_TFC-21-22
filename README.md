@@ -1,3 +1,4 @@
+
 <p align="center">Repositório criado para partilhar publicamente informações relacionadas com o desenvolvimento da aplicação GASE, aplicação essa que faz parte do trabalho final de curso desenvolvido pelos alunos João Ferreira(21905985) e Tiago Matos(21905643) da licenciatura de Eng. Informática da Universidade Lusófona de Humanidades e Tecnologias.</p>
 
 
@@ -54,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![pageExample-screenshot]
+![dashboard-screenshot]
 
  The idea of ​​this project was born with the needs of one of the developers during his professional activity. Many of the companies waste too much time with futile research or search operations which leads to lost productivity.
 	
@@ -138,6 +139,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+
 After launching the application there will be visible the dashboard screen where you can see the different options available, however the DB is empty so we need to get some data first. 
 Scroll down to the bottom of the dashboard where you can find the import/export data from the DB.
 
@@ -147,6 +149,7 @@ Use the given test files in .zip format  (ddn_db.zip )  to import a small amount
 From there you can navigate and see all the information that is available at the website. 
 
 ![pageExample-screenshot]
+
 At the very bottom of every page is the option to download the table files.
 
 ![downloadfiles-screenshot]
@@ -154,6 +157,20 @@ At the very bottom of every page is the option to download the table files.
 We have several forms in development to add new data to the DB and tables aswell, to acess them look for the green buttons to add new and submit your new data.
 
 ![formExample-screenshot]
+
+In the lateste release of this application it was introduced the functionalities of Calendar aswell the ticketing system. Both functionalities are still in alpha versions
+
+![calendar-screenshot]
+![tickets-screenshot]
+
+Tickets allow follow up responses to the main ticket as shown bellow.
+
+![ticketsFollow-screenshot]
+
+
+Finnaly, there is a new section on the application that is only available to users with permissions, wich contains data analytics graphs.
+
+![dataGraphs-screenshot]
 
 More features will be available in a near future.
 
@@ -215,9 +232,14 @@ João Ferreira - 2905985
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[dahboard-screenshot]: images/dashboard.png
+[dashboard-screenshot]: images/dashboard.png
 [downloadfiles-screenshot]: images/downloadfiles.png
 [formExample-screenshot]: images/formExample.png
 [importFiles-screenshot]: images/importFiles.png
 [pageExample-screenshot]: images/pageExample.png
+[calendar-screenshot]: images/calendar.png
+[tickets-screenshot]: images/tickets.png
+[ticketsFollow-screenshot]: images/ticketFollow.png
+[dataGraphs-screenshot]: images/dataGraphs.png
+
 
