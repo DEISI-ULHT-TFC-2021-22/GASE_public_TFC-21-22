@@ -112,7 +112,11 @@ This is an example of how to list things you need to use the software and how to
    ```
 4. Install Django inside Shell
    ```sh
-   python manage.py makemigrations
+   pip install django
+   ```
+5. Install Requirements
+   ```sh
+   pip install requirements.txt 
    ```
 5. Make Migrations
    ```sh
